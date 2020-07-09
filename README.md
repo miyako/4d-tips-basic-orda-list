@@ -16,3 +16,7 @@ ORDAとリストボックスの基本的な例題
 ラジオボタンでローカルとリモートのデータストアを切り替えることができます。
 
 <img width="454" alt="スクリーンショット 2020-07-09 17 28 21" src="https://user-images.githubusercontent.com/1725068/87016671-fa6a8300-c209-11ea-87dd-50c7aadc25e1.png">
+
+####　おまけ
+
+``test_execute_on_server``は「サーバー上で実行メソッド」の例題です。
