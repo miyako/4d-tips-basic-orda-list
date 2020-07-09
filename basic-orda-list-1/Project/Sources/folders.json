@@ -1,0 +1,28 @@
+﻿{
+	"error": {
+		"methods": [
+			"on_object_error"
+		]
+	},
+	"execute on server": {
+		"methods": [
+			"a_function_example",
+			"a_function_example_c",
+			"a_function_example_s"
+		]
+	},
+	"not used": {
+		"methods": [
+			"meta_collection_with_pos",
+			"set_collection_index"
+		]
+	},
+	"test": {
+		"methods": [
+			"test_01_create_data",
+			"test_execute_on_server",
+			"test_xx_orda_in"
+		]
+	},
+	"trash": {}
+}

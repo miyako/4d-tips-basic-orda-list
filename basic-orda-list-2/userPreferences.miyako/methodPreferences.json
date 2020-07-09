@@ -1,0 +1,146 @@
+﻿{
+	"Sources/Methods/test_01_create_data.4dm": {
+		"startSelection": 19,
+		"endSelection": 19,
+		"firstSelectedLine": 16,
+		"lastSelectedLine": 16,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-07-09T04:36:15.660Z"
+	},
+	"Sources/Forms/TEST/method.4dm": {
+		"startSelection": 12,
+		"endSelection": 12,
+		"firstSelectedLine": 26,
+		"lastSelectedLine": 26,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-07-09T08:25:24.472Z"
+	},
+	"Sources/Methods/set_collection_index.4dm": {
+		"startSelection": 16,
+		"endSelection": 16,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-07-09T03:47:11.218Z"
+	},
+	"Sources/Methods/meta_collection_with_pos.4dm": {
+		"startSelection": 7,
+		"endSelection": 7,
+		"firstSelectedLine": 13,
+		"lastSelectedLine": 13,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-07-09T03:49:29.531Z"
+	},
+	"Sources/Forms/TEST/ObjectMethods/Customers.4dm": {
+		"startSelection": 12,
+		"endSelection": 12,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-07-09T08:25:34.779Z"
+	},
+	"Sources/Methods/a_function_example.4dm": {
+		"startSelection": 95,
+		"endSelection": 95,
+		"firstSelectedLine": 26,
+		"lastSelectedLine": 26,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-07-09T07:17:00.338Z"
+	},
+	"Sources/Methods/a_function_example_s.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 13,
+		"lastSelectedLine": 13,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-07-09T07:13:15.232Z"
+	},
+	"Sources/Methods/test_execute_on_server.4dm": {
+		"startSelection": 41,
+		"endSelection": 41,
+		"firstSelectedLine": 6,
+		"lastSelectedLine": 6,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-07-09T07:17:37.398Z"
+	},
+	"Sources/Methods/a_function_example_c.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 10,
+		"lastSelectedLine": 10,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-07-09T06:58:13.158Z"
+	},
+	"Sources/Forms/TEST/ObjectMethods/Compatriots.4dm": {
+		"startSelection": 9,
+		"endSelection": 9,
+		"firstSelectedLine": 13,
+		"lastSelectedLine": 13,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-07-09T05:49:24.311Z"
+	},
+	"Sources/Methods/test_orda_log.4dm": {
+		"startSelection": 15,
+		"endSelection": 15,
+		"firstSelectedLine": 2,
+		"lastSelectedLine": 2,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-07-09T06:39:31.176Z"
+	},
+	"Sources/Methods/test_xx_orda_in.4dm": {
+		"startSelection": 29,
+		"endSelection": 29,
+		"firstSelectedLine": 6,
+		"lastSelectedLine": 6,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-07-09T07:29:10.611Z"
+	},
+	"Sources/Methods/on_object_error.4dm": {
+		"startSelection": 4,
+		"endSelection": 4,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-07-09T07:07:36.364Z"
+	},
+	"Sources/Forms/TEST/ObjectMethods/remote.4dm": {
+		"startSelection": 34,
+		"endSelection": 34,
+		"firstSelectedLine": 29,
+		"lastSelectedLine": 29,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-07-09T08:18:03.404Z"
+	},
+	"Sources/DatabaseMethods/onServerStartup.4dm": {
+		"startSelection": 16,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-07-09T07:51:21.335Z"
+	},
+	"Sources/Forms/TEST/ObjectMethods/local.4dm": {
+		"startSelection": 39,
+		"endSelection": 0,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-07-09T08:12:05.134Z"
+	}
+}

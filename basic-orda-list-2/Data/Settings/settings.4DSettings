@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><preferences stamp="6">
+	<com.4d>
+		<database>
+			<cache flush_buffer_delay="20s"/>
+		</database>
+		<php ip_address="127.0.0.1"/>
+		<sql>
+			<publication port_number="19812"/>
+		</sql>
+		<web>
+			<standalone_server>
+				<configuration port_number="80" publish_at_startup="false"/>
+				<rest launch_at_startup="true"/>
+				<webservices>
+					<server allow_requests="false" name="A_WebService"/>
+				</webservices>
+				<options>
+					<keep_alive requests_number="100"/>
+					<cache cache_max_size="524288"/>
+					<web_passwords kind="2"/>
+				</options>
+			</standalone_server>
+		</web>
+	</com.4d>
+</preferences>

@@ -1,0 +1,41 @@
+.disabled {
+     stroke: #333333;
+     font-weight: bold;
+}
+
+.title {
+     stroke: #666666;
+     font-weight: bold;
+}
+
+.H1 {
+  text:"出身地";
+}
+
+.H2 {
+  text:"姓";
+}
+
+.H3 {
+  text:"名";
+}
+
+.H4 {
+  text:"住所 1";
+}
+
+.H5 {
+  text:"住所 2";
+}
+
+.H6 {
+  text:"住所 3";
+}
+
+.H7 {
+  text:"住所 4";
+}
+
+.H8 {
+  text:"住所 5";
+}

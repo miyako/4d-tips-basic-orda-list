@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="" uuid="C980BD2328654CA78E5A478349CCA119" collation_locale="ja">
+	<schema name="DEFAULT_SCHEMA"/>
+	<table name="Customer" uuid="C904164CC4FF48C59ECB99733DD7BD58" id="1">
+		<field name="ID" uuid="D34DDCCD9A3E40B0974CCE9BD2B56AF4" type="4" unique="true" autosequence="true" not_null="true" id="1">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="連番" uuid="0BA562AE78A84BB09362F76D2A216E8C" type="4" never_null="true" id="2"/>
+		<field name="姓" uuid="6DEE70BAA1954EE0A4A7E3866685BE0E" type="10" never_null="true" id="3">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="名" uuid="4E25471BE9404A9DBB467F1F4BA72065" type="10" never_null="true" id="4">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="姓_カタカナ" uuid="9826B66790DA40998ECE17AD0D9CA3AC" type="10" never_null="true" id="5">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="名_カタカナ" uuid="9FA8A4B13A304E0A8D569B389F916E6B" type="10" never_null="true" id="6">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="姓_ローマ字" uuid="C0C51DA2036E406299AE216C62DA426B" type="10" never_null="true" id="7">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="名_ローマ字" uuid="09BF64EF74174A88BE4A6EAFC03830E8" type="10" never_null="true" id="8">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="郵便番号" uuid="76157D52B8A441F8866619EBE0F9656B" type="10" never_null="true" id="9">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="住所1" uuid="B43FD10233DA4934A718174D07B129D4" type="10" never_null="true" id="10">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="住所2" uuid="2DE7EBF4B226407CBF61E9AE472E5CB1" type="10" never_null="true" id="11">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="住所3" uuid="4E4E8AA8E9AE4A05B89F57574ADE3DD9" type="10" never_null="true" id="12">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="住所4" uuid="1ED0C288A9C94AF3B51B26668A36A056" type="10" never_null="true" id="13">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="住所5" uuid="24E847293BB94D299183B1DA61448CCB" type="10" never_null="true" id="14">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="住所_カタカナ1" uuid="71F5EB44674647F087FD165E54487603" type="10" never_null="true" id="15">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="住所_カタカナ2" uuid="82F1FEE2D52F4963A2C8AD445EC27EB7" type="10" never_null="true" id="16">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="住所_カタカナ3" uuid="FCA7F76F3118453EAD925E7E0E79BB1E" type="10" never_null="true" id="17">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="住所_カタカナ4" uuid="B266C87E572D462CB937A94482491E7C" type="10" never_null="true" id="18">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="住所_カタカナ5" uuid="507735D50365488C85C39418AAFCACEC" type="10" never_null="true" id="19">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="住所_ローマ字1" uuid="B6ED8E9771C84AE2AA908ED6BDDF0CAE" type="10" never_null="true" id="20">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="住所_ローマ字2" uuid="13A944EE0D2F4F6EA147EFA9BB9080A8" type="10" never_null="true" id="21">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="住所_ローマ字3" uuid="6E650984E5DC4EF5A640B5F30BDE35A4" type="10" never_null="true" id="22">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="住所_ローマ字4" uuid="288905E78574412BA08B93582793C20C" type="10" never_null="true" id="23">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="住所_ローマ字5" uuid="9F3AFF06A91B42118AD59C56FA623EFA" type="10" never_null="true" id="24">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<field name="生年月日" uuid="13077D394DB9481B8C0B68F7E1F44A36" type="8" never_null="true" id="25"/>
+		<field name="出身地" uuid="85F45FE567314F53B062B5B793A4D30C" type="10" never_null="true" id="26">
+			<field_extra>
+				<editor_field_info>
+					<color red="216" green="30" blue="5" alpha="255"/>
+				</editor_field_info>
+			</field_extra>
+		</field>
+		<primary_key field_name="ID" field_uuid="D34DDCCD9A3E40B0974CCE9BD2B56AF4"/>
+		<table_extra input_form="Log" output_form="Log">
+			<editor_table_info displayable_fields_count="26">
+				<color red="255" green="250" blue="244" alpha="255"/>
+				<coordinates left="0" top="0" width="159.68359375" height="588.24609375"/>
+			</editor_table_info>
+		</table_extra>
+	</table>
+	<index kind="regular" uuid="02062F871D1E4D1DB8552FE3D3B04608" type="1">
+		<field_ref uuid="507735D50365488C85C39418AAFCACEC" name="住所_カタカナ5">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="12CAA6C2A82A4CA7BBD4331EADE7CC66" type="1">
+		<field_ref uuid="B43FD10233DA4934A718174D07B129D4" name="住所1">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="1387CBAC56A2428F846EE68EFE8E524B" type="1">
+		<field_ref uuid="1ED0C288A9C94AF3B51B26668A36A056" name="住所4">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="17E8A0F9442645A9B606E6C843D14AF6" type="1">
+		<field_ref uuid="6DEE70BAA1954EE0A4A7E3866685BE0E" name="姓">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="1E00313FCB42410FB2862DD01370DC04" type="1">
+		<field_ref uuid="85F45FE567314F53B062B5B793A4D30C" name="出身地">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" unique_keys="true" uuid="3E65738DD74440A6905D01A87DAD8A94" type="7">
+		<field_ref uuid="D34DDCCD9A3E40B0974CCE9BD2B56AF4" name="ID">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="47A47A67BA4B443D8D628546A7165761" type="1">
+		<field_ref uuid="09BF64EF74174A88BE4A6EAFC03830E8" name="名_ローマ字">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="4D9DBAB3E4414D33905DEC8D9A70D559" type="1">
+		<field_ref uuid="82F1FEE2D52F4963A2C8AD445EC27EB7" name="住所_カタカナ2">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="54938BBDA6E64FF99178D82A0BD383DE" type="1">
+		<field_ref uuid="71F5EB44674647F087FD165E54487603" name="住所_カタカナ1">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="69E0070CC8084C8B9008EB12DB1E1D5D" type="1">
+		<field_ref uuid="13A944EE0D2F4F6EA147EFA9BB9080A8" name="住所_ローマ字2">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="710EF1E89B2C40F0BA7DD11A3D56936B" type="1">
+		<field_ref uuid="FCA7F76F3118453EAD925E7E0E79BB1E" name="住所_カタカナ3">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="81B040F6956246DD9D7B2334917D43F1" type="1">
+		<field_ref uuid="288905E78574412BA08B93582793C20C" name="住所_ローマ字4">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="91B328314D11442D9B1590D72454474F" type="1">
+		<field_ref uuid="9F3AFF06A91B42118AD59C56FA623EFA" name="住所_ローマ字5">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="9CFBE4817D69438BBD80344AC18DD59C" type="1">
+		<field_ref uuid="4E4E8AA8E9AE4A05B89F57574ADE3DD9" name="住所3">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="A13CE623EC394BEA9EAFD03CDC1006B8" type="1">
+		<field_ref uuid="B6ED8E9771C84AE2AA908ED6BDDF0CAE" name="住所_ローマ字1">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="B822144E81354A3894B033CF109B29B9" type="1">
+		<field_ref uuid="B266C87E572D462CB937A94482491E7C" name="住所_カタカナ4">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="C212C9F13E6349E5B344A2FD8661B8DB" type="1">
+		<field_ref uuid="4E25471BE9404A9DBB467F1F4BA72065" name="名">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="D823EDD4B63949B983437228F19AE683" type="1">
+		<field_ref uuid="9FA8A4B13A304E0A8D569B389F916E6B" name="名_カタカナ">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="D9D2391C072F49C0AB9A7A1E388BEE2A" type="1">
+		<field_ref uuid="6E650984E5DC4EF5A640B5F30BDE35A4" name="住所_ローマ字3">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="DBE960E21B6149E89E8EA7D4C0E098EF" type="1">
+		<field_ref uuid="76157D52B8A441F8866619EBE0F9656B" name="郵便番号">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="E4753B8D31EC45419D173A13D5EB9B6A" type="1">
+		<field_ref uuid="2DE7EBF4B226407CBF61E9AE472E5CB1" name="住所2">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="EA88A0C08BF34B6AA0199CAB420A73F8" type="1">
+		<field_ref uuid="24E847293BB94D299183B1DA61448CCB" name="住所5">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="EAABD3B6E3AC4C61B53CA269DBE97D40" type="1">
+		<field_ref uuid="C0C51DA2036E406299AE216C62DA426B" name="姓_ローマ字">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="EEFDA4E0859F4B5B9124F6D785B8E773" type="1">
+		<field_ref uuid="9826B66790DA40998ECE17AD0D9CA3AC" name="姓_カタカナ">
+			<table_ref uuid="C904164CC4FF48C59ECB99733DD7BD58" name="Customer"/>
+		</field_ref>
+	</index>
+	<base_extra __stringCompHash="icu:63.1.0, alternate=search" __keywordBuildingHash="mecab:0.996;sys.dic:102;">
+		<journal_file journal_file_enabled="false"/>
+	</base_extra>
+</base>

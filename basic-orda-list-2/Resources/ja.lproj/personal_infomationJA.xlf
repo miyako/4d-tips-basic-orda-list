@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file datatype="x-STR#" original="undefined" product-version="v18" source-language="en-US" target-language="ja">
+        <header>
+            <note>DEMO</note>
+        </header>
+        <body>
+            <group id="6F5A8C1CDCB042B198780B0A603CA8F7">
+                <trans-unit resname="compatriots" id="6F5A8C1CDCB042B198780B0A603CA8F7.100">
+                    <target>同郷人</target>
+                </trans-unit>
+                <trans-unit resname="number_of_compatriots" id="6F5A8C1CDCB042B198780B0A603CA8F7.101">
+                    <target>同郷人数:</target>
+                </trans-unit>
+                <trans-unit resname="number_of_selected_customers" id="6F5A8C1CDCB042B198780B0A603CA8F7.102">
+                    <target>選択人数:</target>
+                </trans-unit>
+                <trans-unit resname="local_database" id="6F5A8C1CDCB042B198780B0A603CA8F7.103">
+                    <target>クライアント/サーバー</target>
+                </trans-unit>
+                <trans-unit resname="remote_database" id="6F5A8C1CDCB042B198780B0A603CA8F7.104">
+                    <target>リモートデータストア</target>
+                </trans-unit>
+
+            </group>
+        </body>
+    </file>
+</xliff>

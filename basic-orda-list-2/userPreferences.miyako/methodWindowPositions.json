@@ -1,0 +1,116 @@
+﻿{
+	"Sources/Methods/test_01_create_data.4dm": {
+		"left": 219,
+		"top": 129,
+		"width": 983,
+		"height": 617
+	},
+	"Sources/Forms/TEST/method.4dm": {
+		"left": 228,
+		"top": 129,
+		"width": 780,
+		"height": 619
+	},
+	"Sources/Methods/set_collection_index.4dm": {
+		"left": 114,
+		"top": 334,
+		"width": 983,
+		"height": 617
+	},
+	"Sources/Methods/meta_collection_with_pos.4dm": {
+		"left": 219,
+		"top": 129,
+		"width": 983,
+		"height": 617
+	},
+	"Sources/Forms/TEST/ObjectMethods/Customers.4dm": {
+		"left": 228,
+		"top": 129,
+		"width": 780,
+		"height": 619
+	},
+	"Sources/Triggers/table_2.4dm": {
+		"left": 608,
+		"top": 192,
+		"width": 801,
+		"height": 456
+	},
+	"Sources/Methods/a_function_example.4dm": {
+		"left": 240,
+		"top": 132,
+		"width": 911,
+		"height": 721
+	},
+	"Sources/Methods/a_function_example_s.4dm": {
+		"left": 240,
+		"top": 132,
+		"width": 911,
+		"height": 721
+	},
+	"Sources/Methods/test_execute_on_server.4dm": {
+		"left": 240,
+		"top": 132,
+		"width": 911,
+		"height": 721
+	},
+	"Trash/Methods/(customer_manager_clear).4dm": {
+		"left": 211,
+		"top": 302,
+		"width": 719,
+		"height": 517
+	},
+	"Trash/Methods/(customer_manager).4dm": {
+		"left": 211,
+		"top": 302,
+		"width": 719,
+		"height": 517
+	},
+	"Sources/Methods/a_function_example_c.4dm": {
+		"left": 240,
+		"top": 132,
+		"width": 911,
+		"height": 721
+	},
+	"Sources/Forms/TEST/ObjectMethods/Compatriots.4dm": {
+		"left": 112,
+		"top": 169,
+		"width": 1057,
+		"height": 711
+	},
+	"Sources/Methods/test_orda_log.4dm": {
+		"left": 222,
+		"top": 318,
+		"width": 1151,
+		"height": 685
+	},
+	"Sources/Methods/test_xx_orda_in.4dm": {
+		"left": 228,
+		"top": 143,
+		"width": 1076,
+		"height": 684
+	},
+	"Sources/Methods/on_object_error.4dm": {
+		"left": 240,
+		"top": 132,
+		"width": 911,
+		"height": 721
+	},
+	"Sources/Forms/TEST/ObjectMethods/remote.4dm": {
+		"left": 228,
+		"top": 129,
+		"width": 780,
+		"height": 619
+	},
+	"Sources/DatabaseMethods/onServerStartup.4dm": {
+		"left": 47,
+		"top": 368,
+		"width": 1076,
+		"height": 684
+	},
+	"Sources/Forms/TEST/ObjectMethods/local.4dm": {
+		"left": 228,
+		"top": 129,
+		"width": 780,
+		"height": 619
+	}
+}
